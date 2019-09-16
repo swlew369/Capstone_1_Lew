@@ -29,3 +29,6 @@ The slidedeck as a pdf is [here](https://github.com/swlew369/Capstone_1_Lew/blob
 
 [Regression Analysis:OLS & LASSO](https://github.com/swlew369/Capstone_1_Lew/blob/master/Cap1_MLB_1876-2018-OLS_LASSO-Lew.ipynb)
 
+**Power Point:**
+[Slidedeck as Powerpoint file](https://github.com/swlew369/Capstone_1_Lew/blob/master/Cap1_MLB_Lew_slidedeck.pptx)
+
