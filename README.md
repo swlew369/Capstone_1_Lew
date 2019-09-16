@@ -19,3 +19,7 @@ The Final Report as pdf is [here](https://github.com/swlew369/Capstone_1_Lew/blo
 
 The slidedeck as a pdf is [here](https://github.com/swlew369/Capstone_1_Lew/blob/master/Cap1_MLB_Lew_slidedeck.pdf)
 
+Jupyter Notebooks with code used for this project:
+
+[Web scraping functions](https://github.com/swlew369/Capstone_1_Lew/blob/master/Cap1_BeautifulSoup_Scraper_Batting%26Pitching_Stats-Lew.ipynb)
+
