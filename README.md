@@ -24,3 +24,6 @@ The slidedeck as a pdf is [here](https://github.com/swlew369/Capstone_1_Lew/blob
 [Web scraping functions](https://github.com/swlew369/Capstone_1_Lew/blob/master/Cap1_BeautifulSoup_Scraper_Batting%26Pitching_Stats-Lew.ipynb)
 
 [Code for merging datasets](https://github.com/swlew369/Capstone_1_Lew/blob/master/Cap1_Merge_Batting_Pitching_Stats1876_2018.ipynb)
+
+[Exploratory Data Analysis Code](https://github.com/swlew369/Capstone_1_Lew/blob/master/Cap1_MLB_1876-2018-EDA_Lew.ipynb)
+
