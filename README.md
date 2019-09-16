@@ -17,3 +17,5 @@ The Milestone report as pdf is [here](https://github.com/swlew369/Capstone_1_Lew
 
 The Final Report as pdf is [here](https://github.com/swlew369/Capstone_1_Lew/blob/master/Cap_1_Baseball_Final_Report_Lew.pdf)
 
+The slidedeck as a pdf is [here](https://github.com/swlew369/Capstone_1_Lew/blob/master/Cap1_MLB_Lew_slidedeck.pdf)
+
